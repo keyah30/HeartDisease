@@ -5,22 +5,24 @@ This repository contains the code and resources for a project focused on predict
 #### Repository Contents
 HeartDisease/
 
-HeartDisease.Rmd:   # R Markdown file with the code and analysis
+HeartDisease.Rmd:   R Markdown file with the code and analysis
 
-HeartDisease.md:    # Markdown file with a pre-rendered report
+HeartDisease.md:    Markdown file with a pre-rendered report
 
-HeartDisease_Data.csv:    # Dataset used for the analysis
+HeartDisease_Data.csv:    Dataset used for the analysis
 
-HeartDisease_files      # Folder containing figure outputs for the report
+HeartDisease_files      Folder containing figure outputs for the report
 
-  figure-gfm            # Figures generated during the report rendering
+  figure-gfm            Figures generated during the report rendering
   
-README.md               # This file
+README.md               This file
 
 #### Features
 
 Exploratory Data Analysis (EDA): Statistical analysis and visualization of heart disease data.
+
 Predictive Modeling: Implementation of machine learning algorithms for classification.
+
 Model Evaluation: Performance metrics to evaluate the accuracy of predictions.
 
 #### Data
